@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: #fff;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  
+
+.indexImg{
+    background-image: url("./assets/slidderImage1.webp");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh ;   
+    
+}
+
+
+
+
+
+
+.contentfont{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 600;
+
+}

@@ -1,0 +1,919 @@
+{
+    "books": [
+        {
+
+        "id": 1,
+        "bookName": "The Hobbit",
+        "authorName": "J.R.R. Tolkien",
+        "yearOfPublishing": 1937,
+        "bookRate": 4.8,
+        "image": "https://m.media-amazon.com/images/I/71TP68oXLpL._SL1500_.jpg",
+        "price": "250" 
+},
+
+{
+  "id": 2,
+  "bookName": "Fantastic Four",
+  "authorName": "Ryan North ",
+  "yearOfPublishing": 2022,
+  "bookRate": 4.9,
+  "image": "https://m.media-amazon.com/images/I/91J5XznGIiL._AC_UY218_.jpg",
+  "price": "320"
+},
+{
+  "id": 3,
+  "bookName": "To Kill a Mockingbird",
+  "authorName": "Harper Lee",
+  "yearOfPublishing": 1960,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/818tFZgX1JL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "235"
+},
+{
+  "id": 4,
+  "bookName": "Pride and Prejudice",
+  "authorName": "Jane Austen",
+  "yearOfPublishing": 1813,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81Scutrtj4L._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "220"
+},
+{
+  "id": 5,
+  "bookName": "Moby-Dick",
+  "authorName": "Herman Melville",
+  "yearOfPublishing": 1851,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/71K4OH9CqOL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "190"
+},
+{
+  "id": 6,
+  "bookName": "The Catcher in the Rye",
+  "authorName": "J.D. Salinger",
+  "yearOfPublishing": 1951,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/51NtELEqgzS._SY445_SX342_.jpg",
+  "price": "350"
+},
+{
+  "id": 7,
+  "bookName": "Brave New World",
+  "authorName": "Aldous Huxley",
+  "yearOfPublishing": 1932,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61baXf5p1gL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "280"
+},
+{
+  "id": 8,
+  "bookName": "Crime and Punishment",
+  "authorName": "Fyodor Dostoevsky",
+  "yearOfPublishing": 1866,
+  "bookRate": 4.9,
+  "image": "https://m.media-amazon.com/images/I/71rMOcgqOKL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "240"
+},
+{
+  "id": 9,
+  "bookName": "The Great Gatsby",
+  "authorName": "F. Scott Fitzgerald",
+  "yearOfPublishing": 1925,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/61cnHV26bOL._AC_UY218_.jpg",
+  "price": "310"
+},
+{
+  "id": 10,
+  "bookName": "The Odyssey",
+  "authorName": "Homer",
+  "yearOfPublishing": -800,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/A1dCc7z7I-L._AC_UY218_.jpg",
+  "price": "220"
+},
+{
+  "id": 11,
+  "bookName": "Wuthering Heights",
+  "authorName": "Emily Brontë",
+  "yearOfPublishing": 1847,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/611yH3jWMsL._AC_UY218_.jpg",
+  "price": "155"
+},
+{
+  "id": 12,
+  "bookName": "The Divine Comedy",
+  "authorName": "Dante Alighieri",
+  "yearOfPublishing": 1320,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81cNNy1h7OL._AC_UY218_.jpg",
+  "price": "250"
+},
+{
+  "id": 13,
+  "bookName": "The Iliad",
+  "authorName": "Homer",
+  "yearOfPublishing": -750,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/918nUan3EDL._AC_UY218_.jpg",
+  "price": "215"
+},
+{
+  "id": 14,
+  "bookName": "Frankenstein",
+  "authorName": "Mary Shelley",
+  "yearOfPublishing": 1818,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/7156G9ZgRjL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 15,
+  "bookName": "Don Quixote",
+  "authorName": "Miguel de Cervantes",
+  "yearOfPublishing": 1605,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/61but70RW+L._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 16,
+  "bookName": "Jane Eyre",
+  "authorName": "Charlotte Brontë",
+  "yearOfPublishing": 1847,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61N-UOA0alL._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 17,
+  "bookName": "Fahrenheit 451",
+  "authorName": "Ray Bradbury",
+  "yearOfPublishing": 1953,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/71OFqSRFDgL._AC_UY218_.jpg",
+  "price": "310"
+},
+{
+  "id": 18,
+  "bookName": "The Lord of the Rings",
+  "authorName": "J.R.R. Tolkien",
+  "yearOfPublishing": 1954,
+  "bookRate": 4.9,
+  "image": "https://m.media-amazon.com/images/I/81XH+m22mjL._AC_UY218_.jpg",
+  "price": "320"
+},
+{
+  "id": 19,
+  "bookName": "The Brothers Karamazov",
+  "authorName": "Fyodor Dostoevsky",
+  "yearOfPublishing": 1880,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/719B2bgJ8XL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 20,
+  "bookName": "War and Peace",
+  "authorName": "Leo Tolstoy",
+  "yearOfPublishing": 1869,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/51RVrxrnTmL._AC_UY218_.jpg",
+  "price": "300"
+},
+{
+  "id": 21,
+  "bookName": "The Picture of Dorian Gray",
+  "authorName": "Oscar Wilde",
+  "yearOfPublishing": 1890,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/41OCVr-5ujL._AC_UY218_.jpg",
+  "price": "310"
+},
+{
+  "id": 22,
+  "bookName": "Great Expectations",
+  "authorName": "Charles Dickens",
+  "yearOfPublishing": 1861,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/61TXrwhZJ7L._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 23,
+  "bookName": "Les Misérables",
+  "authorName": "Victor Hugo",
+  "yearOfPublishing": 1862,
+  "bookRate": 4.9,
+  "image": "https://m.media-amazon.com/images/I/81rKg3vTlCL._AC_UY218_.jpg",
+  "price": "275"
+},
+{
+  "id": 24,
+  "bookName": "Dracula",
+  "authorName": "Bram Stoker",
+  "yearOfPublishing": 1897,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91APe2DjAnL._AC_UY218_.jpg",
+  "price":"345/"
+
+},
+
+{
+  "id": 25,
+  "bookName": "The Shadow of the Wind",
+  "authorName": "Carlos Ruiz Zafón",
+  "yearOfPublishing": 2001,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/911-t2Bi+6L._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 26,
+  "bookName": "The Goldfinch",
+  "authorName": "Donna Tartt",
+  "yearOfPublishing": 2013,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81OKGYx2LVL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 27,
+  "bookName": "A Discovery of Witches",
+  "authorName": "Deborah Harkness",
+  "yearOfPublishing": 2011,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81z4wHZ+MtL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 28,
+  "bookName": "The Light We Lost",
+  "authorName": "Jill Santopolo",
+  "yearOfPublishing": 2017,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/819KNhgwX1L._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 29,
+  "bookName": "An Ember in the Ashes",
+  "authorName": "Sabaa Tahir",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81BkNTELr8L._AC_UY218_.jpg",
+  "price": "240"
+},
+{
+  "id": 30,
+  "bookName": "The Immortalists",
+  "authorName": "Chloe Benjamin",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81oefqBNr+L._AC_UY218_.jpg",
+  "price": "185"
+},
+{
+  "id": 31,
+  "bookName": "The House of the Spirits",
+  "authorName": "Isabel Allende",
+  "yearOfPublishing": 1982,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/8194R6AC7pL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 32,
+  "bookName": "Educated",
+  "authorName": "Tara Westover",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81nZAhdtL7L._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 33,
+  "bookName": "Little Fires Everywhere",
+  "authorName": "Celeste Ng",
+  "yearOfPublishing": 2017,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/81m1jyK9qOL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 34,
+  "bookName": "The Night Watchman",
+  "authorName": "Louise Erdrich",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91iNg3yrzOS._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 35,
+  "bookName": "Where the Forest Meets the Sea",
+  "authorName": "Jeannie Baker",
+  "yearOfPublishing": 1987,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/918hXn4Uy1L._AC_UY218_.jpg",
+  "price": "150"
+},
+{
+  "id": 36,
+  "bookName": "The Tattooist of Auschwitz",
+  "authorName": "Heather Morris",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/91Q6-aMezyL._AC_UY218_.jpg",
+  "price": "185"
+},
+{
+  "id": 37,
+  "bookName": "Before the Coffee  Cold",
+  "authorName": "Toshikazu Kawaguchi",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81XuBDUvMaL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 38,
+  "bookName": "The Vanishing Half",
+  "authorName": "Brit Bennett",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/71cS8NuKl6L._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 39,
+  "bookName": "The Overstory",
+  "authorName": "Richard Powers",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81x9HI3QBeL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 40,
+  "bookName": "Malibu Rising",
+  "authorName": "Taylor Jenkins Reid",
+  "yearOfPublishing": 2021,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91NpIOdF5lL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 41,
+  "bookName": "The Midnight Library",
+  "authorName": "Matt Haig",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71jD+7-VIoL._AC_UY218_.jpg",
+  "price": "195"
+},
+{
+  "id": 42,
+  "bookName": "A Man Called Ove",
+  "authorName": "Fredrik Backman",
+  "yearOfPublishing": 2012,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81TteoX9GPL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 43,
+  "bookName": "The Paris Library",
+  "authorName": "Janet Skeslien Charles",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71uUEW95sML._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 44,
+  "bookName": "Cloud Atlas",
+  "authorName": "David Mitchell",
+  "yearOfPublishing": 2004,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/614qwE59VoL._AC_UY218_.jpg",
+  "price": "205"
+},
+{
+  "id": 45,
+  "bookName": "The Lovely Bones",
+  "authorName": "Alice Sebold",
+  "yearOfPublishing": 2002,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/91aIKYKPwsL._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 46,
+  "bookName": "The Secret History",
+  "authorName": "Donna Tartt",
+  "yearOfPublishing": 1992,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81uhR4qmhWL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 47,
+  "bookName": "A Winters Vow",
+  "authorName": "Ta-Nehisi Coates",
+  "yearOfPublishing": 2019,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91SgMZ0-aEL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 48,
+  "bookName": "The Book of Longings",
+  "authorName": "Sue Monk Kidd",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/A17QV8YfjQL._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id":49,
+  "bookName": "The Midnight Library",
+  "authorName": "Eílís Ní Dhuibhne ",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/51t0cim5LYL._AC_UY218_.jpg",
+  "price": "295"
+},
+{
+  "id": 50,
+  "bookName": "The House in the Cerulean Sea",
+  "authorName": "TJ Klune",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81PaRSYxv0L._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 51,
+  "bookName": "Beutiful shining person",
+  "authorName": "Micheal",
+  "yearOfPublishing": 2021,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91rS8ye3jJL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 51,
+  "bookName": "The Song of Achilles",
+  "authorName": "Madeline Miller",
+  "yearOfPublishing": 2011,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/51PH05QauDL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "180"
+},
+{
+  "id": 52,
+  "bookName": "The Nightingale",
+  "authorName": "Kristin Hannah",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/81R2jFIqpoL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "200"
+},
+{
+  "id": 53,
+  "bookName": "The Giver",
+  "authorName": "Lois Lowry",
+  "yearOfPublishing": 1993,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/618x0bQBWkL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "135"
+},
+{
+  "id": 54,
+  "bookName": "The House on Mango Street",
+  "authorName": "Sandra Cisneros",
+  "yearOfPublishing": 1984,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/816npdbGcAL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "140"
+},
+{
+  "id": 55,
+  "bookName": "Americanah",
+  "authorName": "Chimamanda Ngozi Adichie",
+  "yearOfPublishing": 2013,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/817n-DIiHxL._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "165"
+},
+{
+  "id": 56,
+  "bookName": "Station Eleven",
+  "authorName": "Emily St. John Mandel",
+  "yearOfPublishing": 2014,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81orGIf2ubL._AC_UY218_.jpg",
+  "price": "155"
+},
+{
+  "id": 57,
+  "bookName": "Anxious People",
+  "authorName": "Fredrik Backman",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/8115FOgG+jL._AC_UY218_.jpg",
+  "price": "240"
+},
+{
+  "id": 58,
+  "bookName": "The Book Thief",
+  "authorName": "Markus Zusak",
+  "yearOfPublishing": 2005,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/91JGwQlnu7L._AC_UY327_FMwebp_QL65_.jpg",
+  "price": "190"
+},
+{
+  "id": 59,
+  "bookName": "A Little Life",
+  "authorName": "Hanya Yanagihara",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/91lN1oKxWEL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 60,
+  "bookName": "The Invisible Man",
+  "authorName": "H.G. Wells",
+  "yearOfPublishing": 1897,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81nmpb17GIL._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 61,
+  "bookName": "The Wind-Up Bird Chronicle",
+  "authorName": "Haruki Murakami",
+  "yearOfPublishing": 1994,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81989+yLEmL._AC_UY218_.jpg",
+  "price": "185"
+},
+{
+  "id": 62,
+  "bookName": "The Ocean at the End of the Lane",
+  "authorName": "Neil Gaiman",
+  "yearOfPublishing": 2013,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91iCVmjWjBL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 63,
+  "bookName": "The Last Wish",
+  "authorName": "Andrzej Sapkowski",
+  "yearOfPublishing": 1993,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91GeE-scPkL._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 64,
+  "bookName": "Nineteen Eighty-Four",
+  "authorName": "George Orwell",
+  "yearOfPublishing": 1949,
+  "bookRate": 4.9,
+  "image": "https://m.media-amazon.com/images/I/61f1ytOB-QL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 65,
+  "bookName": "The Poppy War",
+  "authorName": "R.F. Kuang",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71qrDmmlupL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 66,
+  "bookName": "The Bone Season",
+  "authorName": "Samantha Shannon",
+  "yearOfPublishing": 2013,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91+3TpKtneL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 67,
+  "bookName": "The Cruel Prince",
+  "authorName": "Holly Black",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91dQRqjWTbL._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 68,
+  "bookName": "Red Rising",
+  "authorName": "Pierce Brown",
+  "yearOfPublishing": 2014,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/81YOu17CxTL._AC_UY218_.jpg",
+  "price": "240"
+},
+{
+  "id": 69,
+  "bookName": "Crescent City",
+  "authorName": "Sarah J. Maas",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/91Ewr3LiFZL._AC_UY218_.jpg",
+  "price": "195"
+},
+{
+  "id": 70,
+  "bookName": "House of Leaves",
+  "authorName": "Mark Z. Danielewski",
+  "yearOfPublishing": 2000,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81FluibunXL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 71,
+  "bookName": "Norwegian Wood",
+  "authorName": "Haruki Murakami",
+  "yearOfPublishing": 1987,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/816i4fDZGjL._AC_UY218_.jpg",
+  "price": "165"
+},
+{
+  "id": 72,
+  "bookName": "Pachinko",
+  "authorName": "Min Jin Lee",
+  "yearOfPublishing": 2017,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81o0W3k8oyL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 73,
+  "bookName": "The Shadow of the Wind",
+  "authorName": "Carlos Ruiz Zafón",
+  "yearOfPublishing": 2001,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71heAlr5OoL._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 74,
+  "bookName": "The Goldfinch",
+  "authorName": "Donna Tartt",
+  "yearOfPublishing": 2013,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81qLA2iVhyL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 75,
+  "bookName": "Bachelor Girl",
+  "authorName": "Deborah Harkness",
+  "yearOfPublishing": 2011,
+  "bookRate": 4.5,
+  "image": "https://images-na.ssl-images-amazon.com/images/I/81TDS5IUcaL._AC_UL140_SR140,140_.jpg",
+  "price": "180"
+},
+{
+  "id": 76,
+  "bookName": "The Cage",
+  "authorName": "Jill Santopolo",
+  "yearOfPublishing": 2017,
+  "bookRate": 4.4,
+  "image": "https://images-na.ssl-images-amazon.com/images/I/81yzr0AfJCL._AC_UL140_SR140,140_.jpg",
+  "price": "160"
+},
+{
+  "id": 77,
+  "bookName": "House on Fire",
+  "authorName": "Sabaa Tahir",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71n6QXTRgnL._AC_UY218_.jpg",
+  "price": "240"
+},
+{
+  "id": 78,
+  "bookName": "Little Crazy Children",
+  "authorName": "Chloe Benjamin",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/810z9H1EvML._AC_UY218_.jpg",
+  "price": "285"
+},
+{
+  "id": 79,
+  "bookName": "Expiration Dates",
+  "authorName": "Isabel Allende",
+  "yearOfPublishing": 1982,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/711kEX+4QCL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 80,
+  "bookName": "My Best Mistake",
+  "authorName": "Tara Westover",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71JzowbtQYL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 81,
+  "bookName": "Little Fires Everywhere",
+  "authorName": "Celeste Ng",
+  "yearOfPublishing": 2017,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/81m1jyK9qOL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 82,
+  "bookName": "Red Mountain",
+  "authorName": "Louise Erdrich",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/911txVKCISL._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 83,
+  "bookName": "Where the Forest Meets the Sea",
+  "authorName": "Jeannie Baker",
+  "yearOfPublishing": 1987,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/918hXn4Uy1L._AC_UY218_.jpg",
+  "price": "150"
+},
+{
+  "id": 84,
+  "bookName": "The Tattooist of Auschwitz",
+  "authorName": "Heather Morris",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/91Q6-aMezyL._AC_UY218_.jpg",
+  "price": "185"
+},
+{
+  "id": 85,
+  "bookName": "The Solmen Curfew",
+  "authorName": "Toshikazu Kawaguchi",
+  "yearOfPublishing": 2015,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71mc-s+49wL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 86,
+  "bookName": "The Vanishing Half",
+  "authorName": "Brit Bennett",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.8,
+  "image": "https://m.media-amazon.com/images/I/71cS8NuKl6L._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 87,
+  "bookName": "The Overstory",
+  "authorName": "Richard Powers",
+  "yearOfPublishing": 2018,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81x9HI3QBeL._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 88,
+  "bookName": "Malibu Rising",
+  "authorName": "Taylor Jenkins Reid",
+  "yearOfPublishing": 2021,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91NpIOdF5lL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 89,
+  "bookName": "Four Past Midnight",
+  "authorName": "Matt Haig",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71BLcwZOpvL._AC_UY218_.jpg",
+  "price": "195"
+},
+{
+  "id": 90,
+  "bookName": "A Man Called Stan",
+  "authorName": "Fredrik Backman",
+  "yearOfPublishing": 2012,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81bJ4iM7HJL._AC_UY218_.jpg",
+  "price": "175"
+},
+{
+  "id": 91,
+  "bookName": "The Paris Library",
+  "authorName": "Janet Skeslien Charles",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71uUEW95sML._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 92,
+  "bookName": "Cloud Atlas",
+  "authorName": "David Mitchell",
+  "yearOfPublishing": 2004,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/614qwE59VoL._AC_UY218_.jpg",
+  "price": "205"
+},
+{
+  "id": 93,
+  "bookName": "The Lovely Bones",
+  "authorName": "Alice Sebold",
+  "yearOfPublishing": 2002,
+  "bookRate": 4.4,
+  "image": "https://m.media-amazon.com/images/I/91aIKYKPwsL._AC_UY218_.jpg",
+  "price": "160"
+},
+{
+  "id": 94,
+  "bookName": "The Secret History",
+  "authorName": "Donna Tartt",
+  "yearOfPublishing": 1992,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71eY4ouKL9L._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 95,
+  "bookName": "The Water Dancer",
+  "authorName": "Ta-Nehisi Coates",
+  "yearOfPublishing": 2019,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91VnGgTAIlL._AC_UY218_.jpg",
+  "price": "200"
+},
+{
+  "id": 96,
+  "bookName": "The Longings of Women",
+  "authorName": "Sue Monk Kidd",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81-Kq4jlATL._AC_UY218_.jpg",
+  "price": "190"
+},
+{
+  "id": 97,
+  "bookName": "Mysteries of the Midnight",
+  "authorName": "Matt Haig",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/612HsTrYmGL._AC_UY218_.jpg",
+  "price": "195"
+},
+{
+  "id": 98,
+  "bookName": "The House in the Cerulean Sea",
+  "authorName": "TJ Klune",
+  "yearOfPublishing": 2020,
+  "bookRate": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81PaRSYxv0L._AC_UY218_.jpg",
+  "price": "210"
+},
+{
+  "id": 99,
+  "bookName": "Klara and the Sun",
+  "authorName": "Kazuo Ishiguro",
+  "yearOfPublishing": 2021,
+  "bookRate": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71tA6ojT2yL._AC_UY218_.jpg",
+  "price": "180"
+},
+{
+  "id": 100,
+  "bookName": "The Alchemist",
+  "authorName": "Paulo Coelho",
+  "yearOfPublishing": 1988,
+  "bookRate": 4.6,
+  "image": "https://m.media-amazon.com/images/I/51RVrxrnTmL._AC_UY218_.jpg",
+  "price": "150"
+}
+
+
+]
+  }
