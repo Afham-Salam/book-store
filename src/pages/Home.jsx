@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Card from "../components/Card";
 import { Link } from "react-router-dom";
 import video from "../assets/homevideo.mp4"
 import homeImg from "../assets/indexImg.webp"
@@ -13,6 +12,7 @@ import logo5 from "../assets/logo5.png"
 import banner from "../assets/ads 1.jpg"
 import ad1 from "../assets/ad 2.jpg"
 import ad2 from "../assets/ad 3.jpg"
+import Card from "../components/Card";
 
 
 
