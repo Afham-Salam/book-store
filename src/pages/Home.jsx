@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import Card from "../components/Card";
 import { Link } from "react-router-dom";
 import video from "../assets/homevideo.mp4"
-import homeImg from "../assets/homeImg.jpg"
+import homeImg from "../assets/indexImg.webp"
 
 import logo1 from "../assets/logo1.png"
 import logo2 from "../assets/logo2.png"
-import logo3 from "../assets/logo3.png"
-import logo4 from "../assets/logo4.png"
+import logo3 from "../assets/log3.png"
+import logo4 from "../assets/logo4.jpg"
 import logo5 from "../assets/logo5.png"
 
 import banner from "../assets/ads 1.jpg"
