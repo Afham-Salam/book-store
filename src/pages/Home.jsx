@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Cards from "../components/Cards";
+import Card from "../components/Card";
 import { Link } from "react-router-dom";
 import video from "../assets/homevideo.mp4"
 import homeImg from "../assets/homeImg.jpg"
@@ -83,7 +83,7 @@ export default function Home() {
         </p>
         <section className="flex flex-wrap justify-center gap-8">
           {data?.map((it) => (
-            <Cards
+            <Card
               key={it.id}
               bookName={it.bookName}
               authorName={it.authorName}
