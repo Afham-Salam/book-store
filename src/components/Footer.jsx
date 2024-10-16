@@ -1,6 +1,7 @@
 import React from "react";
 import { navitems } from "../utils/data";
 import { Link } from "react-router-dom";
+import logo from "../assets/Logo-removebg.png"
 
 export default function Footer() {
   return (
@@ -8,7 +9,7 @@ export default function Footer() {
       <aside>
         <img
           className="lg:w-20 md:w-20 sm:w-24 w-24 h-full "
-          src="src/assets/Logo-removebg.png"
+          src={logo}
         />
         <p>
           Book Mingle

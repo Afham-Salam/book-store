@@ -6,6 +6,7 @@ import { Badge } from "antd";
 import CartComponent from "./CartComponent";
 import { useSelector } from "react-redux";
 import MobileMenu from "./Mobilemenu";
+import logo from "../assets/Logo.jpg"
 
 
 export default function Navbar() {
@@ -44,7 +45,7 @@ export default function Navbar() {
      
         <div className="p-4 w-fit">
           <NavLink to="/">
-            <img className="lg:w-20 md:w-20 sm:w-24 w-24 h-full" src="src/assets/Logo.jpg" alt="Logo" />
+            <img className="lg:w-20 md:w-20 sm:w-24 w-24 h-full" src={logo} alt="Logo" />
           </NavLink>
         </div>
 

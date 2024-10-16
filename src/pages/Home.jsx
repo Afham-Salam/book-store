@@ -1,6 +1,21 @@
 import React, { useEffect, useState } from "react";
 import Cards from "../components/Cards";
 import { Link } from "react-router-dom";
+import video from "../assets/homevideo.mp4"
+import homeImg from "../assets/homeImg.jpg"
+
+import logo1 from "../assets/logo1.png"
+import logo2 from "../assets/logo2.png"
+import logo3 from "../assets/logo3.png"
+import logo4 from "../assets/logo4.png"
+import logo5 from "../assets/logo5.png"
+
+import banner from "../assets/ads 1.jpg"
+import ad1 from "../assets/ad 2.jpg"
+import ad2 from "../assets/ad 3.jpg"
+
+
+
 
 export default function Home() {
   const [data, setData] = useState([]);
@@ -28,7 +43,7 @@ export default function Home() {
       <section class="relative">
         <div className="absolute inset-0">
           <video autoPlay muted loop className="w-full h-full object-cover">
-            <source src="src/assets/homevideo.mp4" type="video/mp4" />
+            <source src={video} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
@@ -37,7 +52,7 @@ export default function Home() {
           <div class="hero-content flex-col lg:flex-row-reverse lg:gap-24 text-white">
             <div class="bg-[#e29c6f] lg:w-[350px] lg:h-[350px] w-[300px] h-[300px] rounded-full overflow-hidden">
               <img
-                src="src/assets/homeImg.jpg"
+                src={homeImg}
                 class="w-full h-full object-cover scale-x-[-1]"
               />
             </div>
@@ -96,11 +111,11 @@ export default function Home() {
             </p>
             <marquee scrollamount="10">
               <div className="flex gap-20  pb-10">
-                <img src="src/assets/logo1.png" className=" w-32"></img>
-                <img src="src/assets/logo2.png" className=" w-32"></img>
-                <img src="src/assets/log3.png" className=" w-32"></img>
-                <img src="src/assets/logo4.jpg" className=" w-32"></img>
-                <img src="src/assets/logo5.png" className=" w-32"></img>
+                <img src={logo1} className=" w-32"></img>
+                <img src={logo2} className=" w-32"></img>
+                <img src={logo3}className=" w-32"></img>
+                <img src={logo4} className=" w-32"></img>
+                <img src={logo5} className=" w-32"></img>
               </div>
             </marquee>
           </div>
@@ -111,23 +126,23 @@ export default function Home() {
         <div className="flex flex-col gap-3">
           <div>
             <img
-              src="src/assets/ads 1.jpg"
+              src={banner}
               className="w-full hidden md:block"
             />
           </div>
 
           <div className="flex justify-center gap-7 flex-col md:flex-row sm:align-middle ">
             <div className="w-auto lg:h-[168px] sm:h-[160px]">
-              <img src="src/assets/ad 2.jpg"></img>
+              <img src={ad1}></img>
             </div>
             <div className="w-auto lg:h-[168px] sm:h-[160px]">
-              <img src="src/assets/ad 3.jpg"></img>
+              <img src={ad2}></img>
             </div>
             <div className="w-auto lg:h-[168px] sm:h-[160px]">
-              <img src="src/assets/ad 2.jpg"></img>
+              <img src={ad1}></img>
             </div>
             <div className="w-auto lg:h-[300px] sm:h-[160px]">
-              <img src="src/assets/ad 3.jpg"></img>
+              <img src={ad2}></img>
             </div>
           </div>
         </div>

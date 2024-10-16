@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/indexImg2.jpg"
 
 export default function Index() {
   return (
@@ -8,7 +9,7 @@ export default function Index() {
         <div className="hero-content flex-col lg:flex-row-reverse lg:gap-24">
           <div className="bg-[#e29c6f] lg:w-[350px] lg:h-[350px] w-[300px] h-[300px] rounded-full overflow-hidden">
             <img
-              src="src/assets/indexImg2.jpg"
+              src={logo}
               className="w-full h-full object-cover scale-x-[-1]"
             />
           </div>

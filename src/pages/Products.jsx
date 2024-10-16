@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Pagination } from "antd";
 import { useNavigate, useLocation } from "react-router-dom";
-import Card from "../components/Cards"; 
+import Card from "../components/Card"; 
 
 export default function Products() {
   const [data, setData] = useState([]);
